@@ -7,6 +7,7 @@
 | 剧本 | AI 主持文件 | 说明 |
 | --- | --- | --- |
 | 长安无灯 | [主持人固定底稿](changan-no-lanterns/host.md) | AI 主持主文件。 |
+| 月蚀之夜，龙没有醒来 | [AI 主持底稿](moon-eclipse-night/host.md) | 单文件剧本；[封面](moon-eclipse-night/assets/cover.png)与[角色图](moon-eclipse-night/assets/characters.png)。 |
 
 ## 后续收录约定
 
@@ -21,4 +22,4 @@
 
 ## 授权
 
-仓库原创内容采用 [CC BY-NC 4.0](LICENSE)：使用和改编时需署名，商业使用需另行取得许可。完整条款见 LICENSE 中的官方链接。
+除单个文件另有注明外，仓库原创内容采用 [CC BY-NC 4.0](LICENSE)。其中《月蚀之夜，龙没有醒来》的文字沿用原作 [CC BY-NC-SA 4.0](moon-eclipse-night/host.md#授权)；图片不包含在文字许可中。
